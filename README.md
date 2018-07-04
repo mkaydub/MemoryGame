@@ -1,20 +1,26 @@
-# Memory Game Project
 
-## Table of Contents
+# Memory Game
+This is your standard 2 card memory game. The user must find card matches in the deck to win in the least amount of moves. The users star rating is determined on the amount of moves taken to over-turn and match all cards. If you don't remember this game from your childhood... it will be all the more fun and challenging to you.
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+##How to Play
+Load the page, the timer and score panel will start upon your first card click. You will then click another card and hope for a match, continue on this path until you have matched all cards in the deck.
 
-## Instructions
+###Prerequisites
+* Any browser
 
-The starter project has some HTML and CSS styling to display a static version of the Memory Game project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+###Installing
+No Installation needed. 
 
-To get started, open `js/app.js` and start building out the app's functionality
+###Built With
+* HTML5,
+* CSS3, and
+* JavaScript
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+###Authors
+Melissa Key West
 
-## Contributing
+###License
+This project is not licensed.
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
-
-For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
+###Acknowledgments
+Shout out to my homies at Google and Udacity for the knowledge!
