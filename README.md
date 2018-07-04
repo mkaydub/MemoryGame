@@ -8,8 +8,13 @@ Load the page, the timer and score panel will start upon your first card click. 
 ### Prerequisites
 * Any browser
 
-### Installing
-No Installation needed.
+### Downloading and Installing
+* Clone your Github repository to download the game and to install/run it, simply open the index.html file.
+
+* You may also play it here : https://mkaydub.github.io/MemoryGame/
+
+### Dependencies
+* Font Awesome for Icons
 
 ### Built With
 * HTML5,
@@ -23,4 +28,5 @@ Melissa Key West
 This project is not licensed.
 
 ### Acknowledgments
-Shout out to my homies at Google and Udacity for the knowledge!
+* Stackoverflow for the functionality to shuffle the deck
+* Shout out to my homies at Google and Udacity for the knowledge!
