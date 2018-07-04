@@ -36,7 +36,7 @@ let matched = 0;
 let starsArray = document.querySelectorAll(".stars li");
 
 //hide score card on load
-
+toggleScore();
 
 //shuffle all cards in the deck
 function shuffleCards() {
