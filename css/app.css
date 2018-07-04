@@ -11,11 +11,14 @@ html, body {
   height: 100%;
   margin: 0 auto;
   padding: 0;
+  font-family: 'Oswald' sans-serif;
+  font-size: 18px;
 }
 
 body {
   background: #ffffff;
-  font-family: 'Open Sans', cursive;
+  font-family: 'Oswald', sans-serif;
+  font-size: 18px;
 }
 
 .container {
@@ -27,14 +30,14 @@ body {
 }
 
 h1 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Oswald', sans-serif;
   font-weight: 300;
   font-size: 20px;
   padding-top: 5px;
 }
 
 h3 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Oswald', sans-serif;
   padding-top: 0px;
 }
 
@@ -144,7 +147,7 @@ header {
   right: 0;
   height: 150%;
   width: 100%;
-  background: rgba(0, 0, 0, 0.438);
+  background: rgba(0, 0, 0, 0.3);
 }
 
 .scoreBody {
@@ -166,7 +169,7 @@ header {
 }
 
 .scoreTitle {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
 
 .xOut {
@@ -176,7 +179,7 @@ header {
 }
 
 .scoreStats {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Oswald", sans-serif;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -198,6 +201,9 @@ header {
   border-radius: 10px;
   border-color: rgb(109, 52, 159);
   cursor: pointer;
+  font-family: 'Oswald', sans-serif;
+  font-size: 18px;
+  color: #fff;
 }
 
 .hide {
@@ -216,7 +222,7 @@ header {
   }
   .deck .card {
     width: 23%;
-    min-height: 74px !important;
+    min-height: 75px !important;
     display: flex;
     justify-content: space-around;
     margin: 3px;
